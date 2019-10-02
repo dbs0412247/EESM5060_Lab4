@@ -1,0 +1,2 @@
+include ':app', ':Lab_4_Lib'
+rootProject.name='EESM5060_Lab4'
